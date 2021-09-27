@@ -1,0 +1,17 @@
+{
+  "name": "dumi-404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "APP_ROOT=__docs__ dumi dev",
+    "docs:build": "APP_ROOT=__docs__ dumi build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dumi": "^1.1.29",
+    "dumi-theme-mobile": "^1.1.12"
+  }
+}

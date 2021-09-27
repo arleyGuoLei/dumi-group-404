@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+
+.umi
+.umi-production
+__docs__/dist/
